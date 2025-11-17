@@ -1,0 +1,44 @@
+body{
+	background-image: url("../imagenes/fondo.jpg");
+	background-repeat: repeat-x;
+	border-width: 5px;
+	border-style: dashed solid;			
+}
+
+.fondoBlanco{
+	background-color: white;
+}
+
+.fondoAzul{
+	background-color: blue;
+}
+
+.fondoAzulClaro{
+	background-color: lightblue;
+}
+
+
+#l1{	
+	border: 3px solid white;		
+}
+#l2{	
+	border: 3px solid blue;		
+}
+
+
+/* Otra forma
+
+ul{
+	border-width: 3px;
+	border-style: solid;
+}
+
+#l1{	
+	border-color: white;		
+}
+
+#l2{	
+	border-color: blue;
+}
+
+*/
